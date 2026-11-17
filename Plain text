@@ -1,0 +1,21 @@
+Robotic-Arm-Kinematics/
+│
+├── README.md
+│
+├── src/
+│   ├── forward_kinematics.py
+│   ├── inverse_kinematics.py
+│   └── main.py
+│
+├── simulation/
+│   └── robotic_arm_simulation.py
+│
+├── tests/
+│   └── test_kinematics.py
+│
+├── screenshots/
+│
+├── report/
+│   └── Technical_Report.pdf
+│
+└── requirements.txt
